@@ -32,4 +32,4 @@ class TestMainPage:
         main_page.click_on_list_of_lang()
         main_page.choose_lang(lang="russian")
 
-        main_page.check_french_lang_on_page()
+        main_page.check_russian_lang_on_page()

@@ -23,9 +23,9 @@ class MainPage:
         with allure.step('Проверить заголовок вкладки "Community Activity".'):
             browser.element('.community_home_title').should(have.exact_text('Community Activity'))
 
-    def check_french_lang_on_page(self):
-        with allure.step('Проверить, что на странице установлен французский язык.'):
-            browser.element('#language_pulldown').should(have.exact_text('langue'))
+    def check_russian_lang_on_page(self):
+        with allure.step('Проверить, что на странице установлен русский язык.'):
+            browser.element('#language_pulldown').should(have.exact_text('язык'))
 
 
 main_page = MainPage()
