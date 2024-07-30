@@ -5,7 +5,7 @@
 ---
 ### Список проверок, реализованных в web автотестах
 1. Переход на вкладку "Community".
-2. Смена языка на сайте на французский.
+2. Смена языка на сайте на английски.
 3. Поиск указанной игры.
 4. Переход на страницу авторизации.
 5. Добавление игры в корзину.
@@ -20,10 +20,10 @@
 ---
 
 ### Запуск автотестов осуществляется с использованием Jenkins
-> [Ссылка на сборку в Jenkins](https://jenkins.autotests.cloud/job/zmamedov-qa_guru_Steam_ui_test/)
+> [Ссылка на сборку в Jenkins](https://jenkins.autotests.cloud/job/Vadim_Korolev_Steam_UI/)
 
 #### Для запуска автотестов в Jenkins
-1. Открыть [задачу в Jenkins](https://jenkins.autotests.cloud/job/zmamedov-qa_guru_Steam_ui_test/)
+1. Открыть [задачу в Jenkins](https://jenkins.autotests.cloud/job/Vadim_Korolev_Steam_UI/)
 
 ![jenkins job main page](pictures/Jenkins_job_main_page.png)
 
