@@ -13,7 +13,7 @@ class TestLoginPage:
     @allure.story('Login button')
     @allure.tag('web')
     @allure.severity(Severity.CRITICAL)
-    @allure.label('owner', 'zmamedov')
+    @allure.label('owner', 'Vadim Korolev')
     def test_open_login_page(self):
         main_page.open_main_page()
 

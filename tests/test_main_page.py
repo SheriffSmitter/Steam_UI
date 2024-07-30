@@ -13,7 +13,7 @@ class TestMainPage:
     @allure.story('Tabs')
     @allure.tag('web')
     @allure.severity(Severity.CRITICAL)
-    @allure.label('owner', 'zmamedov')
+    @allure.label('owner', 'Vadim Korolev')
     def test_switch_tab(self):
         main_page.open_main_page()
 
@@ -25,11 +25,11 @@ class TestMainPage:
     @allure.story('Global actions')
     @allure.tag('web')
     @allure.severity(Severity.NORMAL)
-    @allure.label('owner', 'zmamedov')
+    @allure.label('owner', 'Vadim Korolev')
     def test_change_language(self):
         main_page.open_main_page()
 
         main_page.click_on_list_of_lang()
-        main_page.choose_lang(lang="french")
+        main_page.choose_lang(lang="english")
 
         main_page.check_french_lang_on_page()
