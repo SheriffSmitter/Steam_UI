@@ -21,7 +21,7 @@ class TestMainPage:
 
         main_page.check_community_tab_title()
 
-    @allure.title('Change the language on the main page to French')
+    @allure.title('Change the language on the main page to Russian')
     @allure.story('Global actions')
     @allure.tag('web')
     @allure.severity(Severity.NORMAL)
@@ -30,6 +30,6 @@ class TestMainPage:
         main_page.open_main_page()
 
         main_page.click_on_list_of_lang()
-        main_page.choose_lang(lang="english")
+        main_page.choose_lang(lang="russian")
 
         main_page.check_french_lang_on_page()
