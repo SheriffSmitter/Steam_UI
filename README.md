@@ -31,15 +31,15 @@
 
 ---
 
-### Allure отчет
+Allure отчет
 
-#### Общие результаты
+Общие результаты
 ![allure_report main page](pictures/allure_report_main_page.png)
 
-#### Результаты прохождения тестов
+Результаты прохождения тестов
 ![allure_report suites](pictures/allure_report_suites.png)
 
-#### Графики
+Графики
 ![allure_report graph_1](pictures/allure_report_graph_1.png)
 ![allure_report graph_2](pictures/allure_report_graph_2.png)
 
