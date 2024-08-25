@@ -5,7 +5,7 @@
 ---
 ### Список проверок, реализованных в web автотестах
 1. Переход на вкладку "Community".
-2. Смена языка на сайте на английски.
+2. Смена языка на сайте на русский.
 3. Поиск указанной игры.
 4. Переход на страницу авторизации.
 5. Добавление игры в корзину.
@@ -15,7 +15,7 @@
 ---
 
 ### Используемые инструменты
-<img title="Python" src="pictures/icons/python.svg" height="40" width="40"/> <img title="Pytest" src="pictures/icons/pytest.svg" height="40" width="40"/> <img title="Allure Report" src="pictures/icons/allure_report.png" height="40" width="40"/> <img title="GitHub" src="pictures/icons/github.svg" height="40" width="40"/> <img title="Selenoid" src="pictures/icons/selenoid.png" height="40" width="40"/> <img title="Selene" src="pictures/icons/selene.png" height="40" width="40"/> <img title="Pycharm" src="pictures/icons/pycharm-original.svg" height="40" width="40"/> <img title="Telegram" src="pictures/icons/telegram.png" height="40" width="40"/> <img title="Jenkins" src="pictures/icons/jenkins-original.svg" height="40" width="40"/> <img title="Allure TestOps" src="pictures/icons/allure_testops.svg" height="40" width="40"/> <img title="Jira" src="pictures/icons/jira.svg" height="40" width="40"/>
+<img title="Python" src="pictures/icons/python.svg" height="40" width="40"/> <img title="Pytest" src="pictures/icons/pytest.svg" height="40" width="40"/> <img title="Allure Report" src="pictures/icons/allure_report.png" height="40" width="40"/> <img title="GitHub" src="pictures/icons/github.svg" height="40" width="40"/> <img title="Selenoid" src="pictures/icons/selenoid.png" height="40" width="40"/> <img title="Selene" src="pictures/icons/selene.png" height="40" width="40"/> <img title="Pycharm" src="pictures/icons/pycharm-original.svg" height="40" width="40"/> <img title="Telegram" src="pictures/icons/telegram.png" height="40" width="40"/> <img title="Jenkins" src="pictures/icons/jenkins-original.svg" height="40" width="40"/> 
 
 ---
 
@@ -45,23 +45,7 @@ Allure отчет
 
 ---
 
-### Интеграция с Allure TestOps
-> [Дашборд с общими результатами](https://allure.autotests.cloud/project/4223/dashboards)
 
-![allure_testops dashboard](pictures/allure_testops_dashboard.png)
-
-> [Тест-кейсы](https://allure.autotests.cloud/project/4223/dashboards)
-
-![allure_testops test_cases](pictures/allure_testops_test_cases.png)
-
----
-
-### Интеграция с Jira
-> [Задача в Jira](https://jira.autotests.cloud/browse/HOMEWORK-1234)
- 
-![jira task](pictures/jira_task.png)
-
----
 
 ### Уведомления в Телеграм
 
