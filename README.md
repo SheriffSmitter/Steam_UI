@@ -46,18 +46,18 @@
 ---
 
 ### Интеграция с Allure TestOps
-> [Дашборд с общими результатами](https://allure.autotests.cloud/project/4223/dashboards)
+> [Дашборд с общими результатами](https://allure.autotests.cloud/project/4396/dashboards)
 
 ![allure_testops dashboard](pictures/allure_testops_dashboard.png)
 
-> [Тест-кейсы](https://allure.autotests.cloud/project/4223/dashboards)
+> [Тест-кейсы](https://allure.autotests.cloud/project/4396/test-cases?treeId=0)
 
 ![allure_testops test_cases](pictures/allure_testops_test_cases.png)
 
 ---
 
 ### Интеграция с Jira
-> [Задача в Jira](https://jira.autotests.cloud/browse/HOMEWORK-1234)
+> [Задача в Jira](https://jira.autotests.cloud/browse/HOMEWORK-1331)
  
 ![jira task](pictures/jira_task.png)
 
